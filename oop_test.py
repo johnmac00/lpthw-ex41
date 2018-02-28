@@ -78,6 +78,6 @@ try:
                 print(question)
 
                 input("> ")
-                print(f"ANSWER: {answer})\n\n")
+                print(f"ANSWER: {answer}\n\n")
 except EOFError:
     print("\nBye")
